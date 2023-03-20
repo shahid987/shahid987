@@ -1,4 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Web apps
-- 🌱 I’m currently learning masters in NWMSU
-- 📫 How to reach me: +16605281717(Whattsapp)
+- 🔭 I m currenty working as Full Stack JAVA Developer
+- 🌱 
+- 📫 How to reach me: 
